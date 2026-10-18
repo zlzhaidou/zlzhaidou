@@ -20,11 +20,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlzhaidou&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
-### 🌐 Third-Party Platform Stats
-
-<div align="center">
-  <img src="https://stats.justsong.cn/api/bilibili/?id=627863757" alt="Bilibili Stats" />
-</div>  
-
-<br/><br/>  

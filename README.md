@@ -18,10 +18,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlzhaidou&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlzhaidou&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
